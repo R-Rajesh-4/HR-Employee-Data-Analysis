@@ -1,3 +1,5 @@
+Create database hrproject
+  
 SELECT * FROM hrproject.human_resources;
 
 use hrproject;
