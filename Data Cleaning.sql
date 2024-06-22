@@ -1,4 +1,4 @@
-Create database hrproject
+Create database hrproject;
   
 SELECT * FROM hrproject.human_resources;
 
